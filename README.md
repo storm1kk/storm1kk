@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @storm1kk
-- 👀 I’m interested in SRE, DevOps practices, CI/CD, Terraform, Azure, Prometheus, Grafama, Loki, Golang.
+- 👀 I’m interested in SRE, DevOps practices, CI/CD, Terraform, Azure, Prometheus, Grafana, Loki, Golang, Security, Network.
 - 🌱 I’m currently learning the stuff I'm interested in :)
 - 💞️ I’m looking to collaborate on Golang project.
 - 📫 How to reach me ... @storm1kk on Twitter.
